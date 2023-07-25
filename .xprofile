@@ -1,0 +1,4 @@
+sxhkd &
+nitrogen --restore &
+setxkbmap -layout es &
+exec bspwm
