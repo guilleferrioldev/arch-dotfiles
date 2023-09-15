@@ -86,7 +86,7 @@
 
 ### DE appearance
 
-- lxappearance-gtk3
+- adwaita-gtk2/3
 
 ### Docker
 
